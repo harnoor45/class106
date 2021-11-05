@@ -1,0 +1,38 @@
+body {
+font-family: 'Zen Old Mincho', serif;
+background: #e6aed9;
+
+}
+.header_div{
+background:white;
+color:#c04ee6;
+
+}
+.header_div p{
+color:#7495e8;
+font-family: 'Zen Old Mincho', serif;
+font-size:15px;
+font-weight:bold;
+letter-spacing:2px;
+
+}
+.main_div button{
+font-family: 'Zen Old Mincho', serif;
+color:#fc5400;
+letter-spacing:3px;
+font-weight:bolder;
+margin-top:30px;
+width: 150px;
+
+}
+.copy_right_footer{
+position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+   font-size: 20px;
+   line-height:2;
+
+}
